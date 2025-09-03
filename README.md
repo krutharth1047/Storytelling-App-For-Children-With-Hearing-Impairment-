@@ -1,4 +1,4 @@
-# Storytelling App For Children With Hearing Impairment Using Natural Language Processing 
+# StorySign: AI-Powered Storytelling App for Children with Hearing Impairment 
 
 This project is based on an app which narrates children’s stories to hearing impaired children by taking in stories in form of text as input and giving images of **Sign language** gestures and speech as output. 
 
